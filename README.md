@@ -1,6 +1,6 @@
-# The Effects of Plastic Leachates on _Strongylocentrotus purpuratus
+# The Effects of Plastic Leachates on _Strongylocentrotus purpuratus_
 
-This repository holds the code for the analysis of a series of experiments investigating the effects of four plastic leachates, methylparaben, DEHP, UV327, and Irganox1010, on the marine sea urchin _Strongylocentrotus purpuratus
+This repository holds the code for the analysis of a series of experiments investigating the effects of four plastic leachates, methylparaben, DEHP, UV327, and Irganox1010, on the marine sea urchin _Strongylocentrotus purpuratus_
 
 ## Scripts and Analysis
 
